@@ -1,5 +1,3 @@
-Certainly! Below is a sample README file for the "equation-solver-parallel-finiteDifference-diffusion" project:
-
 ---
 
 # Parallel Finite Difference Equation Solver for Diffusion Equation
