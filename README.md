@@ -65,5 +65,3 @@ Contributions are welcome! Feel free to open issues for bug reports, feature req
 - Special thanks to the contributors and maintainers of MPI and related libraries.
 
 ---
-
-Feel free to customize the README further based on specific project details, additional features, or usage instructions!
